@@ -8,6 +8,8 @@
 /build/
 src/main/resources/docs/
 
+src/main/java/seedu/duke/data/
+
 *.class
 
 # MacOS custom attributes files created by Finder
@@ -16,4 +18,3 @@ src/main/resources/docs/
 bin/
 
 /text-ui-test/ACTUAL.txt
-text-ui-test/EXPECTED-UNIX.TXT
